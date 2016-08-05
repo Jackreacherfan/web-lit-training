@@ -1,7 +1,7 @@
 # Mozilla Web Literacy Training
 ## Sharing Your Work with Github!
 
-#_NEVER EVER EVER DELETE THIS FILE._ It will crash the internet.  Trust me.
+#__NEVER EVER, EVER DELETE THIS FILE.__ It will crash the internet.  Seriously. Trust me.
 
 This repo includes three projects for participants in Mozilla's Web Literacy Training to choose from, in order to practice some of the skills learned during the training.
 
